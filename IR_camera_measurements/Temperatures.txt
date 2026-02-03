@@ -1,0 +1,123 @@
+00_21.20_21.20
+01_26.10_25.80
+02_31.01_30.02
+03_37.50_35.60
+04_40.02_38.17
+05_48.88_45.88
+06_49.90_46.60
+07_57.33_53.46
+08_64.27_59.46
+09_70.09_64.48
+10_75.94_69.52
+11_80.75_73.77
+12_83.02_75.72
+13_87.75_79.20
+14_91.51_83.19
+15_95.86_87.33
+16_98.35_88.89
+17_101.02_91.80
+18_106.30_95.70
+19_112.20_100.45
+20_113.62_101.37
+21_120.61_107.43
+22_122.02_108.96
+23_Pre_TGUp28.44_TCDw29.30
+24_120nA_Cu3+_6.745MeV_Tp1.68
+25_120nA_Cu3+_6.745MeV_Tp1.68_after 2min
+26_120nA_Cu3+_6.745MeV_Tp1.68_after 4min
+27_Post
+28_Post after 30seg
+29_Post after 1 min
+30_Pre_TGUp28.31_TCDw29.26
+31_60nA_Cu3+_6.745MeV_Tp1.68
+32_60nA_Cu3+_6.745MeV_Tp1.68_after 2min
+33_60nA_Cu3+_6.745MeV_Tp1.68_after 4min
+34_Post
+35_Post after 30seg
+36_Post after 1 min
+37_Pre_TGUp27.49_TCDw28.35
+38_30nA_Cu3+_6.745MeV_Tp1.68
+39_30nA_Cu3+_6.745MeV_Tp1.68_after 2min
+40_30nA_Cu3+_6.745MeV_Tp1.68_after 4min
+41_Post
+42_Post after 30seg
+43_Post after 1 min
+44_Pre_TGUp27.30_TCDw27.98
+45_15nA_Cu3+_6.745MeV_Tp1.68
+46_15nA_Cu3+_6.745MeV_Tp1.68_after 2min
+47_15nA_Cu3+_6.745MeV_Tp1.68_after 4min
+48_Post
+49_Post after 30seg
+50_Post after 1 min
+51_Pre_TGUp26.27_TCDw26.82
+52_7nA_Cu3+_6.745MeV_Tp1.68
+53_7nA_Cu3+_6.745MeV_Tp1.68_after 2min
+54_7nA_Cu3+_6.745MeV_Tp1.68_after 4min
+55_Post
+56_Post after 30seg
+57_Post after 1 min
+58_Pre_TGUp25.15_TCDw25.54
+59_106nA_Cu2+_5.065MeV_Tp1.68
+60_106nA_Cu2+_5.065MeV_Tp1.68_after 2min
+61_106nA_Cu2+_5.065MeV_Tp1.68_after 4min
+62_Post
+63_Post after 30seg
+64_Post after 1 min
+65_Pre_TGUp28.04_TCDw29.00
+66_60nA_Cu2+_5.065MeV_Tp1.68
+67_60nA_Cu2+_5.065MeV_Tp1.68_after 2min
+68_60nA_Cu2+_5.065MeV_Tp1.68_after 4min
+69_Post
+70_Post after 30seg
+71_Post after 1 min
+72_Pre_TGUp27.12_TCDw27.86
+73_27nA_Cu2+_5.065MeV_Tp1.68
+74_27nA_Cu2+_5.065MeV_Tp1.68_after 2min
+75_27nA_Cu2+_5.065MeV_Tp1.68_after 4min
+76_Post
+77_Post after 30seg
+78_Post after 1 min
+79_Pre_TGUp26.41_TCDw27.07
+80_13nA_Cu2+_5.065MeV_Tp1.68
+81_13nA_Cu2+_5.065MeV_Tp1.68_after 2min
+82_13nA_Cu2+_5.065MeV_Tp1.68_after 4min
+83_Post
+84_Post after 30seg
+85_Post after 1 min
+86_Pre_TGUp25.66_TCDw26.22
+87_6nA_Cu2+_5.065MeV_Tp1.68
+88_6nA_Cu2+_5.065MeV_Tp1.68_after 2min
+89_6nA_Cu2+_5.065MeV_Tp1.68_after 4min
+90_Post
+91_Post after 30seg
+92_Post after 1 min
+93_Pre_TGUp24.69_TCDw25.03
+94_120nA_Cu3+_6.745MeV_Tp1.68
+95_120nA_Cu3+_6.745MeV_Tp1.68_after 2min
+96_120nA_Cu3+_6.745MeV_Tp1.68_after 4min
+97_Post
+98_Post after 30seg
+99_Post after 1 min
+100_Pre_TGUp27.95_TCDw28.86
+101_60nA_Cu3+_6.745MeV_Tp1.68
+102_60nA_Cu3+_6.745MeV_Tp1.68_after 2min
+103_60nA_Cu3+_6.745MeV_Tp1.68_after 4min
+104_Post
+105_Post after 30seg
+106_Post after 1 min
+107_Pre_TGUp27.19_TCDw28.13
+108_30nA_Cu3+_6.745MeV_Tp1.68
+109_30nA_Cu3+_6.745MeV_Tp1.68_after 2min
+110_30nA_Cu3+_6.745MeV_Tp1.68_after 4min
+111_Post
+112_Post after 30seg
+113_Post after 1 min
+114_Pre_TGUp103.5_TCDw117.07
+115_Pre_TGUp98.24_TCDw110.24
+116_106nA_Cu2+_5.065MeV_Tp1.68
+117_106nA_Cu2+_5.065MeV_Tp1.68_after 2min
+118_106nA_Cu2+_5.065MeV_Tp1.68_after 4min
+119_Post
+120_Post after 30seg
+121_Post after 1 min
+122_Post_TGUp90_TCDw100
